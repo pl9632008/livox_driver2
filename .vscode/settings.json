@@ -1,0 +1,15 @@
+{
+    "cmake.sourceDirectory": "/home/nvidia/wjd/livox_driver/src/livox_ros_driver2",
+    "python.autoComplete.extraPaths": [
+        "/home/nvidia/wjd/livox_driver/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nvidia/wjd/livox_driver/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "files.associations": {
+        "chrono": "cpp",
+        "variant": "cpp"
+    }
+}
